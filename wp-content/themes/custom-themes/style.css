@@ -1,0 +1,33 @@
+/*
+Theme Name: custom-themes
+Author: Alexey
+Author URI: fornit.kiev.ua
+Description: Простая кастомная тема
+Version: 1.0
+*/
+
+#logo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 300px;
+}
+
+#footer {
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+
+.post-preview {
+    border-bottom: 2px dashed #ddd;
+}
+
+.post-preview:last-child {
+    border-bottom: none;
+}
+
+.block {
+    padding: 15px;
+}
